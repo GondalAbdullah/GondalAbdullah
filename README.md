@@ -1,6 +1,10 @@
-# 💫 About Me:
+# 👋 Hey There! I'm Abdullah Ahmed<br>
+<br>I enjoy building software that solves real problems, especially on the backend. My current focus is developing robust web applications with **Django** and **Django REST Framework**, while continuously improving my understanding of software architecture and system design.
 
-## 👋 Hey There! I'm Abdullah Ahmed<br><br>I enjoy building software that solves real problems, especially on the backend. My current focus is developing robust web applications with **Django** and **Django REST Framework**, while continuously improving my understanding of software architecture and system design.<br><br>- 🔭 **Currently building:** Django-based backend projects and polishing existing applications.<br>- 🌱 **Currently learning:** Scalable backend systems, distributed computing, Apache Spark, AI/ML fundamentals, and data engineering.<br>- 👯 **Looking to collaborate on:** Open-source backend projects, developer tools, educational tech, and anything involving Python.<br>- 💡 **Interested in:** Clean architecture, APIs, databases, distributed systems, and building software that scales.<br><br>> *"Always learning. Always building. One commit at a time."*
+<br>- 🔭 **Currently building:** Django-based backend projects and polishing existing applications.
+<br>- 🌱 **Currently learning:** Scalable backend systems, distributed computing, Apache Spark, AI/ML fundamentals, and data engineering.
+<br>- 👯 **Looking to collaborate on:** Open-source backend projects, developer tools, educational tech, and anything involving Python.
+<br>- 💡 **Interested in:** Clean architecture, APIs, databases, distributed systems, and building software that scales.<br><br>> *"Always learning. Always building. One commit at a time."*
 
 
 
@@ -12,6 +16,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=GondalAbdullah&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=GondalAbdullah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GondalAbdullah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
