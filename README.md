@@ -42,9 +42,9 @@ batch and streaming ingestion, warehouse modeling, and the Django/FastAPI servic
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[PROJECT_ONE](https://github.com/GondalAbdullah/mosar)** | One line on the problem it solves and the scale it handles (rows/day, sources, latency). | `React` `FastAPI` `Docker` |
-| **[PROJECT_TWO](https://github.com/GondalAbdullah/karigar-backend)** | What it does and who it's for. Add a live demo link if there is one. | `Python` `DRF` `PostgreSQL` |
-| **[PROJECT_THREE](https://github.com/GondalAbdullah/air-quality-data-pipeline)** | The interesting engineering decision you made here, in one sentence. | `DBT` `Dagster` `DuckDB` `Terraform` `Streamlit` |
+| **[MOSAR](https://github.com/GondalAbdullah/mosar)** | One line on the problem it solves and the scale it handles (rows/day, sources, latency). | `React` `FastAPI` `Docker` |
+| **[KARIGAR](https://github.com/GondalAbdullah/karigar-backend)** | What it does and who it's for. Add a live demo link if there is one. | `Python` `DRF` `PostgreSQL` |
+| **[AIR QUALITY DATA PIPELINE](https://github.com/GondalAbdullah/air-quality-data-pipeline)** | The interesting engineering decision you made here, in one sentence. | `DBT` `Dagster` `DuckDB` `Terraform` `Streamlit` |
 
 ---
 
@@ -90,7 +90,7 @@ batch and streaming ingestion, warehouse modeling, and the Django/FastAPI servic
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Terraform](https://shields.io)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 
 
 <!--
